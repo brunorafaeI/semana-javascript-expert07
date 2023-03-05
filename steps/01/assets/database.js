@@ -1,4 +1,4 @@
-[
+export default [
   {
     "show_id": "81193313",
     "title": "Chocolate",
